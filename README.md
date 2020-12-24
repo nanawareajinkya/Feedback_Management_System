@@ -7,6 +7,8 @@ Basic Student Feedback management system with having database php.
 * BOOTSTRAP(5.0.x).
 * XAMMP SERVER version 3.2.2
 
+:pray: Feel free to fork, tweak and send me a pull request.
+
 
 :white_check_mark: See Demo: https://pensive-lichterman-0ff65e.netlify.app
 
