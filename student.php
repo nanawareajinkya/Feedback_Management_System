@@ -3,10 +3,9 @@
 Created by: Ajinkya Nanaware.
 Server: Xammp
 Database Name: test
-Table Name: Student
+Table Name: student
 
---!>
-
+-->
 
 <?php 
     if(isset($_POST['register']))
@@ -23,9 +22,9 @@ Table Name: Student
         $comment = $_POST['comment'];
        
        $con = mysqli_connect("localhost","root","","test");      //localhost is server ,root is username of server,"" no password and stfeedback is the database name
-       $query = "insert into student (name,ID,sone,stwo,sthree,sfour,tone,ttwo,tthree,tfour,comment) values ('','$name','$first','$second','$third','$fourth','$fifth','$sixth','$seventh','$eight','$comment')";
+       $query = "insert into student (id,name,sone,stwo,sthree,sfour,tone,ttwo,tthree,tfour,comment) values ('','$name','$first','$second','$third','$fourth','$fifth','$sixth','$seventh','$eight','$comment')";
 
-       $result = mysqli_query($con, $query);
+    $result = mysqli_query($con, $query);
         if($result==1)
         {       
 
