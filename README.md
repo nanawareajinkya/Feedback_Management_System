@@ -1,5 +1,5 @@
 # Student_Feedback_System
-Basic Student Feedback management system with having database php.
+Student Feedback management system with having database php.
 
 :point_right: Technology Used:
 * HTML5
