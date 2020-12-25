@@ -1,4 +1,4 @@
-# Student_Feedback_System
+# Feedback_Management_System
 Student Feedback management system with having database php.
 
 :point_right: Technology Used:
@@ -15,7 +15,7 @@ Student Feedback management system with having database php.
 
 # Live Demo:
 
-:white_check_mark: Click here to See Online Demo:   https://ajinkya-nanaware-student-feedback-system.netlify.app
+:white_check_mark: Click here to See Online Demo:   https://ajinkya-nanaware-feedback-management-system.netlify.app
 
 
 # Netlify platform:
