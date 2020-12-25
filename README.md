@@ -20,7 +20,7 @@ Student Feedback management system with having database php.
 
 # Netlify platform:
 
-:thumbsup: :gem:  Used Netlify platform for Deploying Project. :gem: 
+:thumbsup: :gem: I have Used Netlify platform for Deploying Project. :gem: 
 
 :point_right: Just Sign in and use This Platform for Deploying Projects:  https://www.netlify.com/
 
