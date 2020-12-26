@@ -21,7 +21,7 @@ Table Name: student
         $name = $_POST['name'];
         $comment = $_POST['comment'];
        
-       $con = mysqli_connect("localhost","root","","test");      //localhost is server ,root is username of server,"" no password and stfeedback is the database name
+       $con = mysqli_connect("localhost","root","","test");      //localhost is server ,root is username of server,"" it has no password and test is the Database name.
        $query = "insert into student (id,name,sone,stwo,sthree,sfour,tone,ttwo,tthree,tfour,comment) values ('','$name','$first','$second','$third','$fourth','$fifth','$sixth','$seventh','$eight','$comment')";
 
     $result = mysqli_query($con, $query);
